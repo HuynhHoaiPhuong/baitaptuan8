@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Bai_Tap_Tuan_8
+build_property.ProjectDir = C:\Users\PTT\Desktop\0306191457_0306191452_0306191154\0306191457_0306191452_0306191154\Bai_Tap_Tuan_8\
